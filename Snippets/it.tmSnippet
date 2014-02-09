@@ -3,11 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it('should $1', function(${1:done}) {
+	<string>it('should $1', function(${2:done}) {
 	$0
 });</string>
 	<key>name</key>
 	<string>it</string>
+	<key>scope</key>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>it</string>
 	<key>uuid</key>
