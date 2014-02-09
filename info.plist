@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>04750DD6-B123-4121-8C14-361322874BDF</string>
+			<string>60F4EFEE-FF5D-412A-88A6-9C833541302A</string>
+			<string>C32FD427-4E1F-4BBC-A9FF-023DA465629F</string>
+			<string>AE19C012-687A-43C5-B1B3-A9DF55CE2E02</string>
+			<string>5397251E-A718-4631-9C17-A8937A2662DD</string>
+			<string>CB33CF32-BBFB-443E-BAA1-0DB331108AED</string>
+			<string>00F58D6A-507D-4ED2-94C7-DEEE38DB5DCD</string>
+			<string>0A88A2A1-3A5A-4F3E-AE9A-D924275ADB3D</string>
+			<string>BA6991F2-7A1F-4F40-A016-9A967A96546F</string>
+			<string>C2CE098A-ACD7-425D-94A9-2B6D5174379F</string>
+			<string>B4EB994B-A5CA-4B78-BAE9-A81BB4EF6204</string>
+			<string>881E3CF0-0D58-4AEE-851B-16AB65875AA1</string>
+			<string>95461AC7-0F0F-4D76-8EA2-5AA4E1FBC2A7</string>
+			<string>E86E40FA-0964-4CA6-A35E-E562FF9788B8</string>
+			<string>04643901-054A-4C97-9F26-E7704C75D1A3</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Mocha</string>
+	<key>ordering</key>
+	<array>
+		<string>04750DD6-B123-4121-8C14-361322874BDF</string>
+		<string>60F4EFEE-FF5D-412A-88A6-9C833541302A</string>
+		<string>C32FD427-4E1F-4BBC-A9FF-023DA465629F</string>
+		<string>AE19C012-687A-43C5-B1B3-A9DF55CE2E02</string>
+		<string>5397251E-A718-4631-9C17-A8937A2662DD</string>
+		<string>CB33CF32-BBFB-443E-BAA1-0DB331108AED</string>
+		<string>00F58D6A-507D-4ED2-94C7-DEEE38DB5DCD</string>
+		<string>0A88A2A1-3A5A-4F3E-AE9A-D924275ADB3D</string>
+		<string>BA6991F2-7A1F-4F40-A016-9A967A96546F</string>
+		<string>C2CE098A-ACD7-425D-94A9-2B6D5174379F</string>
+		<string>B4EB994B-A5CA-4B78-BAE9-A81BB4EF6204</string>
+		<string>881E3CF0-0D58-4AEE-851B-16AB65875AA1</string>
+		<string>95461AC7-0F0F-4D76-8EA2-5AA4E1FBC2A7</string>
+		<string>E86E40FA-0964-4CA6-A35E-E562FF9788B8</string>
+		<string>04643901-054A-4C97-9F26-E7704C75D1A3</string>
+	</array>
+	<key>uuid</key>
+	<string>514DB601-FE57-48B2-85E0-30A411EA7EDD</string>
+</dict>
+</plist>
