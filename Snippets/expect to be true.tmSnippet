@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:fn}).to.throw(${2:Error});</string>
+	<string>expect(${1:target}).to.be.true;</string>
 	<key>name</key>
-	<string>expect to throw</string>
+	<string>expect to be true</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>eth</string>
+	<string>et</string>
 	<key>uuid</key>
-	<string>E192DA1C-744F-463C-A404-EF52EC032F9E</string>
+	<string>59D445CA-8894-4F36-B1AF-21B6680CC0DD</string>
 </dict>
 </plist>
