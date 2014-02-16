@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect(${1:target}).to.exist;</string>
+	<key>name</key>
+	<string>expect to exist</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>ex</string>
+	<key>uuid</key>
+	<string>A8E20D70-B514-4273-AB5A-3A3FC4736D96</string>
+</dict>
+</plist>

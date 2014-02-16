@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>expect(${1:target}).to.be.an.instanceof(${2:type});</string>
+	<key>name</key>
+	<string>expect to be instance of</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>in</string>
+	<key>uuid</key>
+	<string>67949929-BC08-45EA-AEE6-F8B54FFE348C</string>
+</dict>
+</plist>
