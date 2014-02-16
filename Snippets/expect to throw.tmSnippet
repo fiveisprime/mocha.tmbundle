@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).not.to.equal(${2:value});</string>
+	<string>expect(${1:fn}).to.throw(${2:Error});</string>
 	<key>name</key>
-	<string>expect not to equal</string>
+	<string>expect to throw</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>ne</string>
+	<string>et</string>
 	<key>uuid</key>
-	<string>A7E27AF0-0F44-4169-A680-13AE197616EE</string>
+	<string>E192DA1C-744F-463C-A404-EF52EC032F9E</string>
 </dict>
 </plist>
